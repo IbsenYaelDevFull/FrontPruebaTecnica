@@ -16,7 +16,7 @@ export class TaskService {
   }
 
   createTask(task: Task): Observable<Task> {
-    return this.http.post<Task>(this.apiUrl, task);
+    return this.http.post<Task>(`${this.apiUrl}/create`, task);
   }
 
   updateTask(id: number, task: Task): Observable<ResponseModel> {
