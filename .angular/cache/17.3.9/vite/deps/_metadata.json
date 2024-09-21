@@ -1,0 +1,67 @@
+{
+  "hash": "36abdf35",
+  "configHash": "0e812186",
+  "lockfileHash": "73d85fbf",
+  "browserHash": "5afa7b6b",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "e38ac061",
+      "needsInterop": false
+    },
+    "@angular/material/toolbar": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/toolbar.mjs",
+      "file": "@angular_material_toolbar.js",
+      "fileHash": "72d062d7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "6c724b24",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "c76c3753",
+      "needsInterop": false
+    },
+    "@angular/material/table": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/table.mjs",
+      "file": "@angular_material_table.js",
+      "fileHash": "a3297d97",
+      "needsInterop": false
+    },
+    "@angular/material/checkbox": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/checkbox.mjs",
+      "file": "@angular_material_checkbox.js",
+      "fileHash": "69be29f0",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "98177f5c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3IY53OYE": {
+      "file": "chunk-3IY53OYE.js"
+    },
+    "chunk-MABOQCAU": {
+      "file": "chunk-MABOQCAU.js"
+    },
+    "chunk-2SL2ICDO": {
+      "file": "chunk-2SL2ICDO.js"
+    },
+    "chunk-ESDXFQNL": {
+      "file": "chunk-ESDXFQNL.js"
+    },
+    "chunk-3JSDCYK4": {
+      "file": "chunk-3JSDCYK4.js"
+    }
+  }
+}
